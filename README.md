@@ -98,6 +98,10 @@ const Daniel = {
 <!-- framework -->
   <tr>
     <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
+      <br>AI
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
     </td>
@@ -133,10 +137,6 @@ const Daniel = {
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
-      <br>Flask
-    </td>
   </tr>
 <!-- common -->
 <!-- network -->
@@ -146,8 +146,8 @@ const Daniel = {
       <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
+      <br>Flask
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="MUI v5" />
