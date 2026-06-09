@@ -7,3 +7,37 @@ My strongest background is in **LLM application development, RAG architecture, A
 I work extensively with **OpenAI, Claude, LangChain, LangGraph, OpenAI Agents, vector databases, PostgreSQL, Supabase pgvector, Pinecone, n8n, Make, Zapier, Power Automate, HubSpot, Salesforce, GoHighLevel, Shopify, BigCommerce, Zendesk, Intercom, Python, SQL, REST APIs, webhooks, approval flows, retry handling, workflow logs, and business automation tools**.
 
 From LLM architecture and knowledge-base AI to enterprise workflow automation, CRM operations, support automation, document review, reporting, ecommerce workflows, and back-office process automation, I help businesses build stable AI-powered systems that reduce manual work, improve accuracy, and deliver real value in production.
+
+```javascript
+const Daniel = {
+    role: "Senior AI/LLM Engineer",
+    focus: "RAG, AI Agents & Enterprise Workflow Automation",
+
+    languages: [
+        "JavaScript", "TypeScript", "Python", "SQL"
+    ],
+
+    specialties: {
+        ai: ["OpenAI", "Claude", "Gemini", "Prompt Engineering", "Structured Outputs"],
+        rag: ["Embeddings", "Vector Databases", "Pinecone", "Weaviate", "pgvector"],
+        agents: ["LangChain", "LangGraph", "Tool Calling", "Human Approval Flows"],
+        automation: ["n8n", "Make", "Zapier", "Power Automate", "Webhooks"],
+        backend: ["Node.js", "FastAPI", "REST APIs", "GraphQL", "OAuth"],
+        data: ["PostgreSQL", "ETL", "Data Cleanup", "Excel Automation", "Reporting"],
+        crm: ["HubSpot", "Salesforce", "Zoho", "GoHighLevel", "Pipedrive"],
+        ecommerce: ["Shopify", "BigCommerce", "WooCommerce", "Stripe", "QuickBooks"]
+    },
+
+    builds: [
+        "AI-powered business automation",
+        "RAG knowledge base systems",
+        "Multi-step AI agent workflows",
+        "CRM and API integrations",
+        "Document processing automation",
+        "Data and reporting pipelines"
+    ],
+
+    goal: "Turn manual business workflows into reliable AI-powered systems"
+};
+
+```
