@@ -11,12 +11,20 @@ From LLM architecture and knowledge-base AI to enterprise workflow automation, C
 ```javascript
 const Daniel = {
     role: "Senior AI/LLM Engineer",
-    focus: "RAG, AI Agents & Enterprise Workflow Automation",
-
-    languages: [
-        "JavaScript", "TypeScript", "Python", "SQL"
+    experience: "10+ years",
+    focus: [
+        "RAG systems and enterprise knowledge automation",
+        "AI agents for sales, support, reporting, and operations",
+        "LLM-powered workflow automation connected to real business systems",
+        "CRM, ecommerce, document, and data automation",
+        "Production-ready AI systems with APIs, logs, validation, and monitoring"
     ],
-
+    languages: {
+        primary: ["Python", "TypeScript", "JavaScript", "SQL"],
+        backend: ["Node.js", "Python", "FastAPI", "NestJS"],
+        data: ["SQL", "PostgreSQL", "Python"],
+        scripting: ["JavaScript", "Python", "Google Apps Script"]
+    },
     specialties: {
         ai: ["OpenAI", "Claude", "Gemini", "Prompt Engineering", "Structured Outputs"],
         rag: ["Embeddings", "Vector Databases", "Pinecone", "Weaviate", "pgvector"],
@@ -27,7 +35,6 @@ const Daniel = {
         crm: ["HubSpot", "Salesforce", "Zoho", "GoHighLevel", "Pipedrive"],
         ecommerce: ["Shopify", "BigCommerce", "WooCommerce", "Stripe", "QuickBooks"]
     },
-
     builds: [
         "AI-powered business automation",
         "RAG knowledge base systems",
@@ -36,7 +43,6 @@ const Daniel = {
         "Document processing automation",
         "Data and reporting pipelines"
     ],
-
     goal: "Turn manual business workflows into reliable AI-powered systems"
 };
 
