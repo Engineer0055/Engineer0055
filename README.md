@@ -142,8 +142,8 @@ const Daniel = {
 <!-- network -->
   <tr>
     <td align="center" width="90">
-      <img src="./icons/binance.png" width="45" height="45" alt="binance" />
-      <br>Binance
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      <br>AWS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
