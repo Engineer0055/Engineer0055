@@ -98,7 +98,7 @@ const Daniel = {
 <!-- framework -->
   <tr>
     <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
+       <img src="https://skillicons.dev/icons?i=aiscript" width="45" height="45" alt="Next.js" />
       <br>AI
     </td>
     <td align="center" width="90">
