@@ -67,7 +67,7 @@ const Daniel = {
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?mysql.svg" width="45" height="45" alt="cpp" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="cpp" />
       <br>MYSQL
     </td>
     <td align="center" width="90">
@@ -75,7 +75,7 @@ const Daniel = {
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="	https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
       <br>C#
     </td>
     <td align="center" width="90">
